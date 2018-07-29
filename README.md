@@ -13,7 +13,7 @@ pip install sphinx
 Setelah menginstall sphinx tinggal convert dokumentasi ke output HTML dll, ini contoh mmengenerate dokumentasi dalam format html
 
 ```sh
-cd path/to/alfaxpired-doc
+cd path/to/alfaxpired
 make html
 ```
 Setelah itu akan terbentuk folder **build**->**html**
