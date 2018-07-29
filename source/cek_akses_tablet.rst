@@ -1,7 +1,7 @@
 Cek Akses Tablet
 ================
 
-Di **Alfa Xpired** kita bisa melihat pemakaian aplikasi tablet. ketika kita sudah membuka aplikasi tablet seperti **MAX DISPLAY**, **PRODUCT INFO**, **STORE REPORT** dan sejenisnya, kita bisa memastikan lagi apakah ketika kita sudah membuka aplikasi data sudah tersimpan di server. Jika sudah, maka akan tampil di tabel tersebut dan jika belum muncul data di tabel tersebut, kita bisa menghubungi departemen **IT** agar dapat dibantu menyelesaikan masalahnya. Contoh seperti ini :
+Di **Alfa Xpired** kita bisa melihat pemakaian aplikasi tablet. ketika kita sudah membuka aplikasi tablet seperti **MAX DISPLAY**, **PRODUCT INFO**, **STORE REPORT** dan sejenisnya. Kita bisa memastikan lagi apakah ketika kita sudah membuka aplikasi data sudah tersimpan di server. Jika sudah, maka akan tampil di tabel tersebut dan jika belum muncul data di tabel tersebut, kita bisa menghubungi departemen **IT** agar dapat dibantu menyelesaikan masalahnya. Contoh seperti ini :
 
 .. figure:: img/bantuan/cek_akses_tablet.png
     :align: center
