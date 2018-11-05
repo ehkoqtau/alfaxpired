@@ -18,7 +18,7 @@ make html
 ```
 Setelah itu akan terbentuk folder **build**->**html**
 
-
 ## Authors
-
-* **Eko Setiawan** - *Office Support* - [ehkoqtau](https://github.com/ehkoqtau)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+[<img src="https://avatars1.githubusercontent.com/u/25001246?v=4" width="100px;"/><br /><sub><b>Eko Setiawan</b></sub>](https://github.com/ehkoqtau)<br />[💻](https://github.com/ehkoqtau/alfaxpired/commits?author=ehkoqtau "Code") Office Support
